@@ -11,11 +11,11 @@ This project is a deep learning-based image classification tool that detects and
 
 ## 🗂️ File Structure
 
-'''
+```
 human_tree_car_classifier/
 ├── classify.py # Main classification script
 ├── extractor.py # Feature extraction logic
 ├── run_predict.py # Entry point for running predictions
 ├── my_model.h5 # Trained model weights
 ├── validation/ # Folder for test images
-'''
+```
